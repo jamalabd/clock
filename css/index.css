@@ -1,0 +1,25 @@
+body {
+  padding: 4rem 0;
+  font-size: 10px;
+  background-image: linear-gradient(to right, #996cff,#1580f2);
+  box-sizing: border-box;
+}
+.clock__holder {
+  margin: 0 auto;
+  background-color: #333436;
+  height: 85vh;
+  width: 50%;
+  box-shadow: 0 2.5rem 5rem rgba(0, 0, 0, .5);
+}
+.u__aligner {
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid white;
+}
+
+.clock {
+  margin: 1rem auto;
+  font-family: "lobster", sans-serif;
+  color: #fff;
+  font-size: 2.5rem;
+}
