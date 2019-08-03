@@ -41,3 +41,18 @@ input:focus {
 .search__feild::placeholder {
   color: #fff;
 }
+
+.search__res {
+  text-align: center;
+}
+
+.search__res--img {
+  width: 25%;
+  border: 2px solid transparent;
+  background-image: linear-gradient(to right, #996cff,#1580f2);
+}
+
+.search__res--title {
+  color: #fff;
+  font-size:2rem;
+}

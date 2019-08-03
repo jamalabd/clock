@@ -1,6 +1,4 @@
 /* jshint esversion: 8 */
-
-
 function updateClock ()
 
 {
@@ -27,5 +25,4 @@ function updateClock ()
   document.getElementById('clock').innerHTML = currentTimeString;
 
 }
-
 setInterval(updateClock, 0);
